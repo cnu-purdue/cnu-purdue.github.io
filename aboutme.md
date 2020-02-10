@@ -10,7 +10,7 @@ We have four members.
   
 > Jongwhoa Lee  
 > Yutaek Jung  
-  > github : https://github.com/DoDaek
+  > github : https://github.com/DoDaek  
 > Junho Shin  
 > Hyunjun Lee  
   
