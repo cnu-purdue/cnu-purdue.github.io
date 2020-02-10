@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Hyunjun_indiana trip
+title: Hyunjun_indiana_trip
 image: /img/hello_world.jpeg
 ---
 
