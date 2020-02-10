@@ -9,8 +9,7 @@ Our team name is TARS & CASE.
 We have four members.  
   
 > Jongwhoa Lee  
-> Yutaek Jung  
-  > github : https://github.com/DoDaek  
+> Yutaek Jung   
 > Junho Shin  
 > Hyunjun Lee  
   
