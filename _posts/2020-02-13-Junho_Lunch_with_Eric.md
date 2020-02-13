@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hyunjun_indiana_trip
+title: Junho_Lunch_with_Eric
 image: /img/hello_world.jpeg
 ---
 
@@ -34,5 +34,3 @@ Eric교수님이 엄청 맛있다고 하는 맥시칸 음식점이 있다고 하
 기본으로 준 것 중에 라임이 있었는데, 어따 쓸지 몰라서 가위바위보 해서 진사람이 먹기로 했다.
 
 현준이만 3개를 먹이는 쾌거를 이루었다.
-
-![fajito]/img/fajito.jpeg
